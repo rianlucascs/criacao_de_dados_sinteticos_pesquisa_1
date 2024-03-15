@@ -1,5 +1,7 @@
 # Criação de dados sintéticos pesquisa 01
 
+![Texto Alternativo](https://github.com/rianlucascs/criacao_de_dados_sinteticos_pesquisa_1/blob/main/imag.jpg)
+
 O objetivo é tentar encontrar uma série aleatória que se pareça o máximo possível com a série de um ativo.
 
 Neste exemplo, foram geradas 50 métricas aleatórias como entrada para a função que gera os dados sintéticos.
